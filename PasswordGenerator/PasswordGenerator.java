@@ -1,7 +1,7 @@
 import java.util.Scanner; 
 import java.util.Random;
 
-public class Main{
+public class PasswordGenerator{
     
     private static final int ALPHABET_LENGTH = 26;
     private static final int NUMBER_LENGTH = 10;
