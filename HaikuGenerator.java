@@ -1,3 +1,8 @@
+/*****************************
+Created by Priyasha Ghosh 12/02/2022
+Creates nonsensical haikus :)
+*****************************/
+
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
